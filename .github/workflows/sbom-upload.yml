@@ -1,4 +1,4 @@
-name: Syft SBOM Creation
+name: Trivy SBOM Creation
 
 on:
   push:
